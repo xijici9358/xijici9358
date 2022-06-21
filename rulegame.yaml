@@ -1,4 +1,12 @@
 payload:
+# PUBG
+  - PROCESS-NAME,com.tencent.ig
+  - DOMAIN-SUFFIX,pubgmobile.com
+  - DOMAIN-SUFFIX,igamecj.com
+  - DOMAIN,file-igamecj.akamaized.net
+  - IP-CIDR,45.40.220.0/22
+  - IP-CIDR,150.109.124.0/23
+  - IP-CIDR,49.51.228.0/23
 # FreeFire
   - IP-CIDR,103.14.247.0/24
   - IP-CIDR,143.92.120.0/24
