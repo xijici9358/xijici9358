@@ -1,11 +1,11 @@
 payload:
-#AppMytelkomsel
+  # AppMytelkomsel
   - DOMAIN-SUFFIX,telkomsel.com
   - DOMAIN-SUFFIX,my.telkomsel.com
   - DOMAIN-KEYWORD,telkomsel.com
   - PROCESS-NAME,com.telkomsel.telkomselcm
   - PROCESS-NAME,com.myorbit
-# Whatsapp
+  # Whatsapp
   - DOMAIN-SUFFIX,m.me
   - DOMAIN-SUFFIX,oculus.com
   - DOMAIN-SUFFIX,oculuscdn.com
@@ -25,7 +25,7 @@ payload:
   - DST-PORT,45395
   - DST-PORT,50318
   - DST-PORT,59234
-# TikTok
+  # TikTok
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,ibytedtos.com
   - DOMAIN-SUFFIX,ipstatp.com
